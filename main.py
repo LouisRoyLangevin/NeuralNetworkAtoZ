@@ -173,4 +173,14 @@ def CreateNN(arr):
     biases = [[10*(random.random()-0.5) for j in range(arr[i])] for i in range(1,len(arr))]
     return NeuralNetwork(len(arr),arr,weights,biases)
 
-#Ceci est un test de modification
+
+
+# User's part
+
+
+
+
+
+
+
+
