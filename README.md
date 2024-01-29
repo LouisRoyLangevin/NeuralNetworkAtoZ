@@ -8,7 +8,7 @@ This is a python script that allows the user to create neural networks of any de
 3) To know what to write, read the rest of this Readme file.
 
 
-##Create a new neural network
+Create a new neural network
 You can create a neural network writing
 "NN = CreateNN(arr)"
 where arr = [a0,a1,...,an] and ak's are natural numbers.  This will create a neural network with n+1 layers (n-1 hidden layers) with respective sizes a0,a1,...,an, where a0 is the input layer's size and an in the output layer's size.
