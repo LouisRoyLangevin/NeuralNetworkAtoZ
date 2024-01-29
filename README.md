@@ -17,7 +17,6 @@ where arr = [a0,a1,...,an] and ak's are natural numbers.  This will create a neu
 
 The weights and biases will be Unif[0,1] generated (uniformly between 0 and 1).
 
---------
 
 You also have the option of setting the initial weights and biases by yourself.  You can simply write
 
