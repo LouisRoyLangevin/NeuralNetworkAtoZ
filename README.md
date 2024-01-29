@@ -9,7 +9,6 @@ This is a python script that allows the user to create neural networks of any de
 
 
 Create a new neural network
-
 You can create a neural network writing
 
 "NN = CreateNN(arr)"
