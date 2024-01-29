@@ -2,7 +2,7 @@
 This is a python script that allows the user to create neural networks of any desired sizes.  Back-propagation and gradient descent algorithms have been implement from A to Z without using any library.
 
 
-##How to use it
+#How to use it
 1) Download the main.py file on your own device.  main.py is located in the main branch of this repository.
 2) Go to the bottom of the file and write your own piece of code in the "User's part".
 3) To know what to write, read the rest of this Readme file.
